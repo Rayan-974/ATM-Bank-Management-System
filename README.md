@@ -153,5 +153,3 @@ java -cp "out;src;lib/jcalendar-1.4.jar;lib/mysql-connector-j-9.1.0.jar" bank.ma
 ---
 
 ⭐ Star this repository if you found it helpful!
-
-```
