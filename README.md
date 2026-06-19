@@ -1,4 +1,4 @@
-# 🏦 ApexBank — Enterprise Java ATM & Banking Automation Suite
+# 🏦 ApexBank — ATM Bank Management System
 
 A high-fidelity, desktop-based Automated Teller Machine (ATM) simulator and core banking management engine. Built using **Java Swing & AWT**, this application integrates with a **MySQL relational database via JDBC** to handle everything from secure multi-stage user onboarding to real-time transactional ledger updates.
 
